@@ -1,6 +1,11 @@
-.espacamentoBorda {
+.espacamentoBorda{
     padding: 5%;
     margin-top: -27%;
+}
+
+.contato{
+    padding: 4%;
+    margin-top: -25%;
 }
 
 #button-enviar {
